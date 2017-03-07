@@ -1,0 +1,140 @@
+h1{
+   font-family: Arial, sans-serif;
+   color:   rgb(0,0,255);
+   
+}
+h2{
+   
+   color:  rgb(255, 140, 0); 
+}
+.board {
+  height: 80%;
+  width: 50%;
+  display: inline-block;
+}
+
+
+.card{
+
+   height: 200px;
+   width:  150px;
+   background: yellow;   
+   border: 1px  solid black;
+   border-radius: 10px;  
+   float: left;
+   margin:8%
+   
+
+}
+
+body {
+   background-color: lightblue;
+   text-align: center;
+}
+
+span{
+    color: #ff0000;
+   font-variant: small-caps;
+   font-family: Tahoma, sans-serif;
+   letter-spacing:  .25em;
+   padding: 0.2em;
+    
+}
+button{
+    height:20px; 
+    width:100px; 
+    margin: -20px -50px; 
+    position:center;
+    top:50%; 
+    left:50%;
+}
+/*div {
+   background-color: #c0dec5;
+   margin: 4em;
+   padding: 2em 3em 0em 3em;
+   display: inline-block; 
+}*/
+div {
+   width: 150px;
+   height: 150px;
+   border: 2px solid black;
+   display: inline-block;
+   margin: 20px;
+   padding: 2em 3em 0em 3em;
+}
+.card{
+
+   height: 200px;
+   width:  150px;
+   background: yellow;
+   border: 1px  solid black;
+   border-radius: 10px;
+}
+
+p {
+   font-family: georgia, serif;
+   font-size: 20px;
+   line-height: 1.4em;
+}
+.right{
+
+   text-align:  right;
+   text-transform: uppercase;
+h1{
+   color:  rgb(2, 132, 130);
+}
+h2{
+
+   color: ffd700 ;
+}
+
+.board{
+   height: 80%;
+   width:  50%;
+   display: inline-block;
+   color: red;
+}
+
+body {
+	text-align: center;
+   background-color: #333;
+}
+
+span{
+   font-variant: small-caps;
+   font-family: Tahoma, sans-serif;
+   letter-spacing:  .25em;
+   padding: 0.2em;
+   background:  rgba(0, 0, 52, 0.5);
+}
+a {
+     text-decoration: none;
+
+}
+div {
+   background-color: #c0dec5;
+   margin: 4em;
+   padding: 2em 3em 0em 3em;
+}
+/*div {
+   width: 150px;
+   height: 150px;
+   border: 2px solid black;
+   display: inline-block;
+   margin: 20px;
+}*/
+
+p {
+   font-family: georgia, serif;
+   font-size: 20px;
+   line-height: 1.4em;
+}
+.right{
+
+   text-align:  right;
+   text-transform: uppercase;
+}
+img {
+    max-width: fixed;
+    max-height: fixed;
+}
